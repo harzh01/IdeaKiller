@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+* { box-sizing: border-box; }
+
+body {
+  background: #0e0e0f;
+  color: #e8e6e1;
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  min-height: 100vh;
+  line-height: 1.6;
+}

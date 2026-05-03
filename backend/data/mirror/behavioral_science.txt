@@ -1,0 +1,46 @@
+INTENTION-ACTION GAP
+Definition: The consistent and well-documented gap between what people intend to do and what they actually do.
+Research finding: Only 39% of people follow through on stated intentions when no concrete implementation plan exists.
+Key insight: Past behavior is a far better predictor of future behavior than stated intentions or current motivation.
+Why this matters: People explain past failures with circumstances and predict future success with character.
+Diagnostic question: What is your specific track record of following through on similar past intentions?
+
+AFFECTIVE FORECASTING ERRORS
+Definition: Humans are systematically wrong about how future events will make them feel.
+Impact bias: We overestimate how long and how intensely both positive and negative events will affect our emotional state.
+Focalism error: We focus on the one change and forget that life continues in all its complexity around it.
+Research finding: Lottery winners and accident victims return to near-baseline happiness within 1 year in most studies.
+Real-world implication: The new job, city, relationship, or situation that feels like it will fix everything rarely does.
+Diagnostic question: Have you felt this certain about a change before, and did it actually deliver what you imagined it would?
+
+IDENTITY-PROTECTIVE COGNITION
+Definition: People unconsciously reject information that threatens their sense of identity, even when that information is accurate.
+Example: Someone who sees themselves as entrepreneurial cannot objectively evaluate whether a specific business idea is bad.
+Key insight: When a decision is tied to identity ("I am the kind of person who takes risks"), it bypasses rational evaluation entirely.
+How to detect it: Listen for "this is just who I am" or "I have always been someone who..." as justifications.
+Diagnostic question: Is this decision about what you actually want and what is actually good for you, or about who you want to be seen as?
+
+TEMPORAL SELF-APPRAISAL BIAS
+Definition: People rate their past selves more negatively than their present selves to make current self look better by comparison.
+Implication: "I have grown so much" is often used to dismiss evidence from past failures as irrelevant to current attempts.
+Key insight: The subjective feeling of having changed and grown is not the same as having actually changed specific behaviors.
+Diagnostic question: What specific and observable behaviors are different now compared to when you last attempted something like this?
+
+THE FRESH START EFFECT
+Definition: People are significantly more likely to pursue goals at temporal landmarks: New Year, birthdays, Mondays, after a move.
+The motivation spike at these moments is genuine but so is the predictable drop-off that follows.
+Research finding: 80% of New Year resolutions are abandoned before the end of February.
+Key insight: Motivation is not a plan. The energy of a fresh start feels like progress but is not a structural change.
+Diagnostic question: What specific structural changes support this attempt beyond the motivational energy of starting fresh?
+
+SELF-PERCEPTION THEORY
+Definition: People infer their own attitudes and true motivations by observing their own behavior, like an outside observer would.
+Implication: Stated reasons for decisions are frequently post-hoc rationalizations of emotional or identity-driven choices.
+How to detect it: Ask why three times. The first answer is the socially acceptable one. The third is closer to true.
+Diagnostic question: If you had to explain to a genuinely skeptical friend who knows you well why you are really making this decision, what would you say?
+
+SELF-SERVING ATTRIBUTION BIAS
+Definition: Taking credit for successes and attributing failures to external circumstances rather than personal decisions.
+Example: "My last attempt failed because of bad timing and bad luck" ignores the role of personal decisions in that outcome.
+Key insight: Someone who cannot identify what they personally contributed to a past failure is likely to repeat it.
+Diagnostic question: Setting aside circumstances and luck, what role did your specific decisions play in how your last similar attempt went?

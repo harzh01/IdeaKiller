@@ -1,0 +1,56 @@
+PLANNING FALLACY
+Definition: Systematically underestimating time, costs, and risks of future actions while overestimating benefits.
+How it appears: "I will finish this in 2 weeks" when similar past tasks took 6 weeks.
+Why it happens: people plan based on best-case scenarios and ignore base rates of similar projects.
+Diagnostic question: What happened the last time you attempted something of similar scope and complexity?
+
+OPTIMISM BIAS
+Definition: Believing you are less likely than average to experience negative events and more likely to experience positive ones.
+How it appears: "Most relationships fail but mine will be different" or "Most people fail at this but I have what it takes."
+Research finding: 80% of people believe they are above-average drivers, which is statistically impossible.
+Diagnostic question: What specific evidence do you have that you are different from the majority who fail at this?
+
+SUNK COST FALLACY
+Definition: Continuing a course of action because of past investment rather than future value or merit.
+How it appears: Staying in a bad degree because of 3 years already spent, not because it has future value.
+Key insight: Past investment is gone regardless of what you do next. The only question is future value.
+Diagnostic question: If you were starting fresh today with no prior investment, would you make this exact same choice?
+
+PRESENT BIAS (also called hyperbolic discounting)
+Definition: Overvaluing immediate rewards relative to future rewards, often by a factor of 10x or more.
+How it appears: Quitting something uncomfortable now while catastrophically discounting long-term risk.
+Research finding: People require 2.5x the future value to make waiting feel equal to immediate reward.
+Diagnostic question: If you imagine yourself 2 years from now looking back, how does this decision look?
+
+DUNNING-KRUGER EFFECT
+Definition: People with limited knowledge in a domain systematically overestimate their competence.
+How it appears: "I have done a lot of research online so I understand this market well."
+Key insight: Genuine expertise reveals how much you do not know. Early learning feels like mastery.
+Diagnostic question: What are the things you do not know that you do not know about this domain?
+
+IKEA EFFECT
+Definition: People place disproportionately high value on things they have put effort into creating.
+How it appears: Overvaluing a business idea or plan because months were spent developing it.
+Measurement: People value their own creations 5x higher than identical objects made by others.
+Diagnostic question: Would a completely objective stranger with no prior exposure value this as highly as you do?
+
+AVAILABILITY HEURISTIC
+Definition: Judging probability of events by how easily examples come to mind rather than actual statistics.
+How it appears: "I know three people who succeeded at this so it must be achievable."
+Key insight: Memorable examples (friends who succeeded, stories in media) are not representative samples.
+Diagnostic question: Is your sample of examples representative of the full population, or just the memorable cases?
+
+FALSE CONSENSUS EFFECT
+Definition: Assuming others share your beliefs, preferences, and behaviors to a much greater degree than they actually do.
+How it appears: "Everyone wants to escape corporate life so there must be a huge market for this."
+Diagnostic question: Have you actually validated that others feel this way, or is this based on your own experience and projection?
+
+STATUS QUO BIAS
+Definition: Preferring the current state of affairs and experiencing change as a loss even when change is objectively better.
+Flip: also applies in reverse when the current state is painful and any change feels like relief.
+Diagnostic question: Are you avoiding change because it is genuinely risky, or because the current situation is familiar?
+
+FALSE DICHOTOMY
+Definition: Presenting only two options when more options exist on a spectrum.
+How it appears: "Either I quit my job or I am stuck here forever" ignores negotiating, transferring, going part-time.
+Diagnostic question: What options exist between these two extremes that you have not fully considered?
